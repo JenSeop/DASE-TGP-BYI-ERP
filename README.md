@@ -40,8 +40,9 @@ JavaScript 자체가 가지고 있는 장점과 더불어 이를 기반으로<br
 지원하는 업제가 많을 정도로 점유율이 높다.<br>
 이후 MySQL를 모태로 MariaDB라는 RDBMS가 만들어질 정도로 범용성이 높다.<br>
 # 3. 시스템 구성
+<strong>3-1 Diretory Tree</strong>
 ```bash
-BYI_ERP
+BYI_Front
 ├── front
 │   └── src
 │       ├── Layout
@@ -132,3 +133,78 @@ BYI_ERP
 │   ├── package.json
 └── └── package-lock.json
 ``` 
+<strong>3-2 Database Tree</strong>
+```
+BYI-Back
+├── Product
+│   ├── ProductID INT
+│   ├── ProductName VARCHAR
+│   ├── ProductCode VARCHAR
+│   ├── ProductBarcode VARCHAR
+│   ├── ProductImport INT
+│   ├── ProductExport INT
+│   ├── ProductCount INT
+│   ├── ProductDate DATETIME
+│   ├── Attribute VARCHAR
+│   ├── UserID INT
+│   ├── UserPID INT
+│   ├── UserType VARCHAR
+│   ├── UserCode VARCHAR
+│   └── UserInfo VARCHAR
+├── Move
+│   ├── MoveID INT
+│   ├── MoveDate DATETIME
+│   ├── InputStore VARCHAR
+│   ├── OutputStore VARCHAR
+│   ├── MoveInfo VARCHAR
+│   ├── MoveCount INT
+│   ├── InputDate DATETIME
+│   ├── UserID INT
+│   ├── UserMID INT
+│   ├── MoveDIV VARCHAR
+│   ├── UserType VARCHAR
+│   ├── UserCode VARCHAR
+│   └── Confirm INT
+├── User
+│   ├── UserID INT
+│   ├── UserEmail VARCHAR
+│   ├── UserPassword VARCHAR
+│   ├── UserName VARCHAR
+│   ├── UserAddress VARCHAR
+│   ├── UserPhonenumber VARCHAR
+│   ├── UserInfo VARCHAR
+│   ├── UserType VARCHAR
+│   └── UserCode VARCHAR
+├── Sales
+│   ├── SalesID INT
+│   ├── SalesCount INT
+│   ├── SalesPrice INT
+│   ├── SalesDate DATETIME
+│   ├── UserID INT
+│   └── UserSID INT
+├── Client
+│   ├── ClientID INT
+│   ├── ClientName VARCHAR
+│   ├── ClientNum VARCHAR
+│   ├── ClientAddress VARCHAR
+│   ├── ManagerName VARCHAR
+│   ├── ManagerNum VARCHAR
+│   ├── ClientInfo VARCHAR
+│   ├── UserID INT
+│   └── UserCID INT
+├── MoveSales
+│   ├── MoveSalesID INT
+│   ├── ProductID INT
+│   ├── ProductName VARCHAR
+│   ├── ProductCode VARCHAR
+│   ├── ProductBarcode VARCHAR
+│   ├── ProductImport VARCHAR
+│   ├── ProductExport VARCHAR
+│   ├── SalesCount INT
+│   ├── UserID INT
+│   ├── UserMSID INT
+│   ├── SalesID INT
+│   └── ProductCount INT
+├── Output
+└── MoveOutput
+```
