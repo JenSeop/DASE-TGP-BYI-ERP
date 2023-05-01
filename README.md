@@ -1,6 +1,6 @@
 # DASE-TGP-BYI-ERP
 
-# 1. 프로젝트 개요
+# 1. 개요
 <Strong>1-1 개발 배경</Strong><br>
 현 재고 관리 시스템은 기업의 요구 조건에 따른 기업 맞춤형 프로세스이다.<br>
 소상공인, 그 외 기업은 취급 물품에 따라 호환이 어려워 사용에 제약이 있다.<br>
@@ -14,7 +14,7 @@ BYI만의 ERP 시스템에는 각 ERP시스템의 장점을 녹여내었다.<br>
 CX/UX 관점의 설계로 시스템은 사용자의 접근성이 높아진다.<br>
 사용자 맞춤형 재고의 카테고라이징 기능 또한 사용이 가능하며,<br>
 사용자 관점의 인터페이스와 프로세스, DB, 서비스를 제공한다.<br>
-# 2. 개발환경 <a href="https://react.dev/" onClick=""><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <a href="https://mui.com/" onClick=""><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a> <a href="https://nodejs.org/en" onClick=""><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <a href="https://www.mysql.com/" onClick=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
+# 2. 개발 환경 <a href="https://react.dev/" onClick=""><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <a href="https://mui.com/" onClick=""><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a> <a href="https://nodejs.org/en" onClick=""><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <a href="https://www.mysql.com/" onClick=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
 
 <Strong>React</Strong><br>
 메타에서 개발한 자바스크립트 기반의 오픈 소스 라이브러리이며,<br>
