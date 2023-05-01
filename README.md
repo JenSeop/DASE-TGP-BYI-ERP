@@ -247,7 +247,19 @@ BYI-Back
 └── └── Attribute VARCHAR
 ```
 # 5. 시연
-
+![01 login](https://user-images.githubusercontent.com/95238604/235428272-0fe7b3df-e4b9-431f-aad1-b49865a68daa.png)
+![02 register](https://user-images.githubusercontent.com/95238604/235428270-2e16a5b0-f8c1-4694-b470-2030fdc7cd9f.png)
+![03 본사 메인](https://user-images.githubusercontent.com/95238604/235428056-d70d9c88-bb07-4804-a356-74e26da26dc5.png)
+![04 매장 메인](https://user-images.githubusercontent.com/95238604/235428051-afef2561-ef8e-41cf-88d3-797b060f236e.png)
+![04  매장 이동](https://user-images.githubusercontent.com/95238604/235428058-8ff34194-fe0d-452c-bc9f-74db8241d69d.png)
+![07  본사 전체 재고](https://user-images.githubusercontent.com/95238604/235428070-2a5e742d-4273-48a2-9d51-22c4ea7ba1d8.png)
+![06 정보 수정 및 삭제](https://user-images.githubusercontent.com/95238604/235428073-ed3ba5e3-4287-43b1-823d-40cadaaecba6.png)
+![07  본사 재고 검색](https://user-images.githubusercontent.com/95238604/235428076-c2969b87-1df2-4b45-aa64-044db3cbf18d.png)
+![08  매장 재고](https://user-images.githubusercontent.com/95238604/235428083-a580148e-b026-43cd-919f-6c76533cea04.png)
+![08  매장 재고 검색](https://user-images.githubusercontent.com/95238604/235428084-0b0c54df-17af-4e4c-81da-00f1353912b9.png)
+![10  본사 출고 등록](https://user-images.githubusercontent.com/95238604/235428091-e93feea7-c5c7-4d41-a581-e6fc05f4dd23.png)
+![13 본사 입출고 내역](https://user-images.githubusercontent.com/95238604/235428101-911db36c-fb3a-4370-b800-a154cf951842.png)
+![09  본사 입고](https://user-images.githubusercontent.com/95238604/235428093-fdf3ef17-6f98-452b-a42d-21ef4b02df5b.png)
 
 # 6. 참고
 https://www.fun-coding.org/mysql_basic1.html<br>
