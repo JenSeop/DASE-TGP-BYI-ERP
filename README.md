@@ -246,3 +246,32 @@ BYI-Back
 │   ├── InputStore INT
 └── └── Attribute VARCHAR
 ```
+# 5. 참고
+https://www.fun-coding.org/mysql_basic1.html<br>
+#. RDBMS(Relational Database Management System)의 이해<br>
+https://devhints.io/mysql<br>
+#. MySQL cheatsheet<br>
+https://mui.com/<br>
+#. Mui<br>
+https://ko.reactjs.org/<br>
+#. React<br>
+https://nodejs.org/ko/<br>
+#. Node.js<br>
+https://www.forwarder.kr/bbs/board.php?bo_table=menu9_1&wr_id=2042<br>
+#. 재고의 정의와 필요성<br>
+#. 재고의 종류<br>
+#. 재고관리의 목적<br>
+#. 재고관리의 비용<br>
+#. 재고관리 관련 지표<br>
+#. 재고관리 시스템 (재고 관리 기법)<br>
+#. 수요예측기법<br>
+https://dynamics.microsoft.com/ko-kr/field-service/inventory-management-system/<br>
+#. 재고관리 시스템의 문제 및 이점<br>
+https://www.ibm.com/kr-ko/topics/inventory-management<br>
+#. 재고관리 정의 및 필요성<br>
+#. 재고 가시성<br>
+#. 재고관리 시스템<br>
+http://www.beautytimes.com/<br>
+#. 효과적인 재고관리 방법<br>
+http://uonit.co.kr/page1000/<br>
+#. 통합고정자산관리 (EAM - Enterprise Asset Management)<br>
