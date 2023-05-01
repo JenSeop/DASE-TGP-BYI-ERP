@@ -14,8 +14,14 @@ BYI만의 ERP 시스템에는 각 ERP시스템의 장점을 녹여내었다.<br>
 CX/UX 관점의 설계로 시스템은 사용자의 접근성이 높아진다.<br>
 사용자 맞춤형 재고의 카테고라이징 기능 또한 사용이 가능하며,<br>
 사용자 관점의 인터페이스와 프로세스, DB, 서비스를 제공한다.<br>
-# 2. 개발 환경 <a href="https://react.dev/" onClick=""><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <a href="https://mui.com/" onClick=""><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a> <a href="https://nodejs.org/en" onClick=""><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <a href="https://www.mysql.com/" onClick=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
 
+# 2. 팀원
+|**팀장**|**팀원**|**팀원**|**팀원**|
+| :------: | :------: | :------: | :------: |
+|**김정섭**|**나인준**|**한상철**|**안희수**|
+|**Front-End<br>(React, MUI)**|**Back-End<br>(Node.js, MySQL)**|**Back-End<br>(Node.js)**|**Design<br>(UI/UX)**|
+
+# 3. 환경 <a href="https://react.dev/" onClick=""><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <a href="https://mui.com/" onClick=""><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a> <a href="https://nodejs.org/en" onClick=""><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <a href="https://www.mysql.com/" onClick=""><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br>
 <Strong>React</Strong><br>
 메타에서 개발한 자바스크립트 기반의 오픈 소스 라이브러리이며,<br>
 현재 자바스크립트 메인스트림 라이브러리이다.<br>
@@ -39,7 +45,8 @@ JavaScript 자체가 가지고 있는 장점과 더불어 이를 기반으로<br
 1995년 발표된 오픈 소스 RDBMS로 현재까지도 컨텐츠 관리 시스템을<br>
 지원하는 업제가 많을 정도로 점유율이 높다.<br>
 이후 MySQL를 모태로 MariaDB라는 RDBMS가 만들어질 정도로 범용성이 높다.<br>
-# 3. 시스템 구성
+
+# 4. 구성
 <strong>3-1 Diretory Tree</strong>
 ```bash
 BYI_Front
