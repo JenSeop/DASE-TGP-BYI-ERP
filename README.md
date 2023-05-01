@@ -1,7 +1,8 @@
 # DASE-TGP-BYI-ERP
 ```bash
+BYI_ERP
 ├── front
-│   ├── src
+│   └── src
 │       ├── Layout
 │       │   ├── L_MiddleNav.js
 │       │   ├── L_TopNav_Off.js
@@ -13,8 +14,7 @@
 │       ├── Home
 │       │   ├── Company
 │       │   │   └── HC_Total.js
-│       │   ├── Move
-│       │   │   ├── HM_Move.js
+│       │   │   │       │   │   ├── HM_Move.js
 │       │   │   └── HM_Graph.js
 │       │   ├── Sales
 │       │   │   ├── HS_Sales.js
@@ -72,9 +72,22 @@
 │       ├── index.js
 │       └── setupProxy.js
 ├── server
-│   ├── train.py
-│   ├── classify.py
-│   ├── model.py
-│   └── dataset.py
-└── run.sh
+│   ├── db
+│   │   ├── config.js
+│   ├── middleware
+│   │   ├── pool.js
+│   │   ├── validate.js
+│   ├── routes
+│   │   ├── auth.js
+│   │   ├── Client.js
+│   │   ├── find.js
+│   │   ├── findID.js
+│   │   ├── Move.js
+│   │   ├── mypage.js
+│   │   ├── product.js
+│   │   ├── Sales.js
+│   ├── .env
+│   ├── app.js
+│   ├── package.json
+└── └── package-lock.json
 ``` 
