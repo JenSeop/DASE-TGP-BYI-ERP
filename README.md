@@ -206,5 +206,36 @@ BYI-Back
 │   ├── SalesID INT
 │   └── ProductCount INT
 ├── Output
-└── MoveOutput
+│   ├── OutputID INT
+│   ├── OutputDate DATETIME
+│   ├── InputStore VARCHAR
+│   ├── OutputStore VARCHAR
+│   ├── OutputInfo VARCHAR
+│   ├── OutputCount INT
+│   ├── OutputDIV VARCHAR
+│   ├── UserID INT
+│   ├── TargetID INT
+│   ├── UserOID INT
+│   ├── UserType VARCHAR
+│   ├── UserCode VARCHAR
+│   ├── Confirm INT
+│   └── InputDate DATETIME
+├── MoveOutput
+│   ├── MoveOutputID INT
+│   ├── ProductID INT
+│   ├── ProductName VARCHAR
+│   ├── ProductCode VARCHAR
+│   ├── ProductBarcode VARCHAR
+│   ├── ProductImport INT
+│   ├── ProductExport INT
+│   ├── SalesCount INT
+│   ├── ProductCount INT
+│   ├── UserID INT
+│   ├── UserMOID INT
+│   ├── OutputID INT
+│   ├── UserType VARCHAR
+│   ├── UserCode VARCHAR
+│   ├── Confirm INT
+│   ├── InputStore INT
+└── └── Attribute VARCHAR
 ```
