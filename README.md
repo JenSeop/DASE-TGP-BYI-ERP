@@ -47,7 +47,7 @@ JavaScript 자체가 가지고 있는 장점과 더불어 이를 기반으로<br
 이후 MySQL를 모태로 MariaDB라는 RDBMS가 만들어질 정도로 범용성이 높다.<br>
 
 # 4. 구성
-<strong>3-1 Diretory Tree</strong>
+<strong>4-1 Diretory Tree</strong>
 ```bash
 BYI_Front
 ├── front
@@ -140,7 +140,7 @@ BYI_Front
 │   ├── package.json
 └── └── package-lock.json
 ``` 
-<strong>3-2 Database Tree</strong>
+<strong>4-2 Database Tree</strong>
 ```
 BYI-Back
 ├── Product
@@ -246,7 +246,10 @@ BYI-Back
 │   ├── InputStore INT
 └── └── Attribute VARCHAR
 ```
-# 5. 참고
+# 5. 시연
+
+
+# 6. 참고
 https://www.fun-coding.org/mysql_basic1.html<br>
 #. RDBMS(Relational Database Management System)의 이해<br>
 https://devhints.io/mysql<br>
