@@ -62,8 +62,8 @@ BYI_Front
 │       │   └── Layout_Logout.js
 │       ├── Home
 │       │   ├── Company
-│       │   │   └── HC_Total.js
-│       │   │   │       │   │   ├── HM_Move.js
+│       │   │   ├── HC_Total.js
+│       │   │   ├── HM_Move.js
 │       │   │   └── HM_Graph.js
 │       │   ├── Sales
 │       │   │   ├── HS_Sales.js
